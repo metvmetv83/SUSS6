@@ -1,5 +1,5 @@
 {
-  "timestamp": 1794852530741,
+  "timestamp": 1794880720573,
   "success": true,
   "workingDomain": "https://taraftarium1088.xyz",
   "baseUrl": "https://g1b.d72577a9dd0ec74.cfd/",
@@ -31,20 +31,20 @@
     {
       "name": "b2",
       "url": "https://g1b.d72577a9dd0ec74.cfd/b2/mono.m3u8",
-      "valid": true,
-      "error": null
+      "valid": false,
+      "error": "Validation failed"
     },
     {
       "name": "b3",
       "url": "https://g1b.d72577a9dd0ec74.cfd/b3/mono.m3u8",
-      "valid": true,
-      "error": null
+      "valid": false,
+      "error": "Validation failed"
     },
     {
       "name": "b4",
       "url": "https://g1b.d72577a9dd0ec74.cfd/b4/mono.m3u8",
-      "valid": true,
-      "error": null
+      "valid": false,
+      "error": "Validation failed"
     },
     {
       "name": "b5",
@@ -55,14 +55,14 @@
     {
       "name": "bm1",
       "url": "https://g1b.d72577a9dd0ec74.cfd/bm1/mono.m3u8",
-      "valid": false,
-      "error": "Validation failed"
+      "valid": true,
+      "error": null
     },
     {
       "name": "bm2",
       "url": "https://g1b.d72577a9dd0ec74.cfd/bm2/mono.m3u8",
-      "valid": false,
-      "error": "Validation failed"
+      "valid": true,
+      "error": null
     },
     {
       "name": "ss",
@@ -193,20 +193,20 @@
     {
       "name": "ex5",
       "url": "https://g1b.d72577a9dd0ec74.cfd/ex5/mono.m3u8",
-      "valid": true,
-      "error": null
+      "valid": false,
+      "error": "Validation failed"
     },
     {
       "name": "ex6",
       "url": "https://g1b.d72577a9dd0ec74.cfd/ex6/mono.m3u8",
-      "valid": true,
-      "error": null
+      "valid": false,
+      "error": "Validation failed"
     },
     {
       "name": "ex7",
       "url": "https://g1b.d72577a9dd0ec74.cfd/ex7/mono.m3u8",
-      "valid": true,
-      "error": null
+      "valid": false,
+      "error": "Validation failed"
     },
     {
       "name": "ex8",
@@ -217,8 +217,8 @@
     {
       "name": "eu1",
       "url": "https://g1b.d72577a9dd0ec74.cfd/eu1/mono.m3u8",
-      "valid": true,
-      "error": null
+      "valid": false,
+      "error": "Validation failed"
     },
     {
       "name": "eu2",
