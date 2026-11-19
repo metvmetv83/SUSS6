@@ -1,7 +1,7 @@
 {
-  "timestamp": 1794997988343,
+  "timestamp": 1795051380391,
   "success": true,
-  "workingDomain": "https://taraftarium1088.xyz",
+  "workingDomain": "https://taraftarium1089.xyz",
   "baseUrl": "https://g1b.d72577a9dd0ec74.cfd/",
   "streams": [
     {
@@ -211,8 +211,8 @@
     {
       "name": "ex8",
       "url": "https://g1b.d72577a9dd0ec74.cfd/ex8/mono.m3u8",
-      "valid": true,
-      "error": null
+      "valid": false,
+      "error": "Validation failed"
     },
     {
       "name": "eu1",
